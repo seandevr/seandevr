@@ -1,16 +1,14 @@
-### Hi there 👋
+# SeanDevR
 
-<!--
-**shans312/shans312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Development](https://wallup.net/wp-content/uploads/2017/03/29/480566-web_development-minimalism-748x421.png)
 
-Here are some ideas to get you started:
+# SeanDevR information
+Hello, i'm a developer,i live in israel and my favorite social network is "Discord".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experience
+* ⚛ JS
+* 📱 HTML
+* 💻 CSS
+
+## Examples of Work
+<img src="https://cdn.discordapp.com/attachments/859444201057288192/862663449280512020/unknown.png" width="512" >
